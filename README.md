@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Edmund+Gah;AI%2FML+Researcher+%7C+Founder+%7C+Systems+Engineer;Building+Intelligent+Healthcare+Systems;Artificial+Intelligence+for+Global+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Edmund+Eric+Gah;AI%2FML+Researcher+%7C+Founder+%7C+Systems+Engineer;Building+Intelligent+Healthcare+Systems;Artificial+Intelligence+for+Global+Impact" alt="Typing SVG" />
 
 </div>
 
@@ -103,11 +103,11 @@ Applied Research & Innovation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddiegah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddiegah&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img width="800" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
+<img width="800" src="https://streak-stats.demolab.com?user=Eddiegah&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
 
@@ -146,13 +146,32 @@ My long-term mission is to build intelligent systems that improve healthcare acc
 * Saylor University- Computer Architecture
 * Saylor University- Software Engineering
 * Kaggle- Machine Learning
+* IBM- CCA Spark and Hadoop Developer
+* IBM- Big Data 101
+* Cisco- Computer Hardware
+* AWS- Intro to Amazon Athena
+* AWS- Agentic AI by AWS
+* AWS- Machine Learning Specialty
+* AWS- Certified Dev Ops
+* AWS- Cloud Practitioner Essentials
+* AWS- Certified Generative AI Developer
+* AWS- Prompt Engineering with Amazon Q Dev
+* AWS- Generative AI
+* AWS- Data Engineering
+* Cisco- Introduction to Cybersecurity
+* IBM- Cloud Computing
+* Cisco- Data Science
+* Cisco- Introduction to Modern AI
+* IBM- Data Science Methodology
+* HP Life- MCP
+* HP Life- AI for Professionals
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/edmund-eric-gah-7432a7213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/edmund-eric-gah-7432a7213/)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge\&logo=github)](https://github.com/Eddiegah)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge\&logo=gmail)](mailto:gahedmund146@gmail.com)
 
