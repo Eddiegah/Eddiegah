@@ -16,9 +16,9 @@
 ![Cloud Systems](https://img.shields.io/badge/Cloud_Infrastructure-111827?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Engineering-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563EB&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=2563EB" />
+
+<img src="https://img.shields.io/github/followers/Eddiegah?style=for-the-badge&color=2563EB" />
+<img src="https://img.shields.io/github/stars/Eddiegah?style=for-the-badge&color=2563EB" />
 
 </div>
 
