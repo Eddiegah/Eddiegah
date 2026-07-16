@@ -1,239 +1,247 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Edmund+Eric+Gah;AI%2FML+Researcher+%7C+Founder+%7C+Systems+Engineer;Building+Intelligent+Healthcare+Systems;Artificial+Intelligence+for+Global+Impact" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=200&section=header&text=Edmund%20Eric%20Gah&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Founder%20%7C%20Builder&descSize=20&descAlignY=58&descColor=93C5FD&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-0F172A?style=for-the-badge&logo=databricks&logoColor=white)
-![Research](https://img.shields.io/badge/AI_Research-0F172A?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Data Science](https://img.shields.io/badge/Data_Science-111827?style=for-the-badge&logo=anaconda&logoColor=white)
-![Cloud Systems](https://img.shields.io/badge/Cloud_Infrastructure-111827?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Engineering-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<img src="https://img.shields.io/github/followers/Eddiegah?style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/stars/Eddiegah?style=for-the-badge&color=2563EB" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+AI+that+actually+matters.;Founder+%26+CEO+%40+Nexora+Health+Intelligence.;ML+%7C+Computer+Vision+%7C+Healthcare+AI.;Turning+research+into+real-world+systems.;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD+%E2%80%94+Building+for+the+world." alt="Typing SVG" />
+</a>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmund-eric-gah-7432a7213/)
+[![GitHub followers](https://img.shields.io/github/followers/Eddiegah?style=for-the-badge&color=1E3A5F&logo=github&logoColor=white&label=Followers)](https://github.com/Eddiegah)
+[![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9772-2471)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gahedmund146@gmail.com)
+
+</div>
+
+<br/>
+
 ---
 
-## ⚡ About Me
+<div align="center">
 
-```txt
-AI/ML Researcher | Founder & CEO | Software & Systems Engineer
-Building intelligent systems at the intersection of
-Artificial Intelligence, Healthcare, and Human Development.
+## `> whoami`
+
+</div>
+
+```python
+class Edmund:
+
+    name       = "Edmund Eric Gah"
+    location   = "Ghana 🇬🇭 — Building for the world"
+    role       = "AI/ML Engineer · Founder & CEO · Systems Builder"
+    company    = "Nexora — AI Health Intelligence"
+
+    focus = [
+        "Predictive & Preventive Healthcare AI",
+        "Computer Vision & Real-time Systems",
+        "Fairness-Aware Machine Learning",
+        "Scalable Backend & Cloud Infrastructure",
+    ]
+
+    currently_building = "AI that makes healthcare accessible for underserved communities"
+    open_to            = ["Collaborations", "Research partnerships", "Freelance AI/ML"]
+
+    def mission(self):
+        return "Use AI to extend and improve human life at scale — starting where it's needed most."
 ```
 
-I am an AI/ML researcher and software engineer focused on designing scalable intelligent systems that solve meaningful real-world problems through machine learning, predictive intelligence, and advanced software engineering.
-
-My work centers on AI-driven healthcare systems, machine learning research, scalable backend infrastructure, and intelligent analytics designed for real-world impact. I am particularly interested in how artificial intelligence can strengthen healthcare accessibility, improve decision-making, and transform preventive healthcare at scale.
-
-I am the Founder & CEO of **Nexora** — an AI-driven health intelligence initiative building predictive and preventive healthcare systems powered by ethical, fairness-aware, and human-centered artificial intelligence for underserved communities across Ghana and West Africa.
+<br/>
 
 ---
 
-## 🧠 Areas of Focus
+## 🔥 What I Build
 
-```txt
-Artificial Intelligence
-Machine Learning & Predictive Systems
-Healthcare Intelligence & Clinical AI
-Algorithmic Fairness & Ethical AI
-Deep Learning & Neural Networks
-Data Science & Intelligent Analytics
-Scalable Backend Systems
-Cloud Infrastructure & AI Deployment
-Applied Research & Innovation
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning
+Real-world predictive systems, fairness-aware classifiers, clinical decision support, NLP, and applied deep learning. Not just notebooks — production-ready pipelines.
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+Real-time gesture recognition, webcam-based control systems, MediaPipe, OpenCV. Hand-gesture controllers that replace your keyboard and mouse entirely.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare AI
+Predictive models for diabetes, cardiovascular disease, and NCDs tuned specifically for low-resource clinical settings and African patient populations.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Systems Engineering
+FastAPI microservices, cloud-deployed ML inference, Docker pipelines, full-stack applications — from model to user in production.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Eddiegah/gesture-control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eddiegah&repo=gesture-control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8" />
+</a>
+
+</div>
+
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🖐️ **[GestureControl](https://github.com/Eddiegah/gesture-control)** | Control presentations & media with hand gestures via webcam — no keyboard needed | Python · MediaPipe · OpenCV · pyautogui |
+| 🏥 **Nexora Health AI** | Predictive & preventive healthcare intelligence for underserved communities in West Africa | Python · Scikit-learn · XGBoost · FastAPI |
+| 🩸 **CVD Prediction Engine** | Sex-stratified, fairness-aware cardiovascular disease classifier — AUC 0.927 | Python · SVM · Random Forest · SHAP |
+| 🩺 **Diabetes Early Detection** | Fairness-aware Type 2 diabetes prediction across demographic subgroups | Python · XGBoost · SHAP · Pandas |
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+### AI / ML / Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+
+### Engineering & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eddiegah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&ring_color=2563EB" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddiegah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8" />
+
+</div>
+
+<div align="center">
+
+<img width="780" src="https://streak-stats.demolab.com?user=Eddiegah&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eddiegah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1E3A5F" />
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 2026 Goals
+
+```
+[ ] Launch Nexora Health Intelligence — v1 clinical pilot in Ghana
+[ ] Publish 2 peer-reviewed papers on fairness-aware healthcare AI
+[ ] Build & deploy 3 open-source AI tools used by real people
+[ ] Speak at 1 AI / tech conference on the African continent
+[ ] Reach 100 GitHub stars across repositories
 ```
 
+<br/>
+
 ---
 
-## 📚 Published Research
+## 🌍 The Mission
+
+<div align="center">
 
 > *"Only 8 of 47 clinical AI studies reviewed included any fairness evaluation.*
 > *Only 12 were conducted on African patient data.*
-> *This research program exists to change that."*
-
-All research is published open access on Zenodo under CC BY 4.0.
-Full repository → **[github.com/Eddiegah/nexora-research](https://github.com/Eddiegah/nexora-research)**
-
----
-
-### `03` · Systematic Review — Algorithmic Fairness in Clinical ML
-
-**Algorithmic Fairness in Clinical Machine Learning for NCD Prediction in Sub-Saharan Africa:**
-*A Systematic Review, Empirical Analysis, and Research Agenda*
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20417981.svg)](https://doi.org/10.5281/zenodo.20417981)
-&nbsp;`May 2026` &nbsp;`PRISMA Protocol` &nbsp;`47 Studies (2015–2026)`
-
-| Finding | Result |
-|:---|:---|
-| Studies with any fairness evaluation | **8 / 47 — 17.0%** |
-| Studies using formal fairness metrics | **3 / 47 — 6.4%** |
-| Studies on African patient data | **12 / 47 — 25.5%** |
-
-The **first systematic review** of algorithmic fairness in clinical ML for NCD prediction oriented toward sub-Saharan Africa. Proposes a five-pillar research agenda addressing the data representation crisis, fairness measurement gap, explainability requirement, deployment infrastructure barrier, and sex/demographic bias emergency in clinical AI.
-
----
-
-### `02` · Cardiovascular Disease Prediction
-
-**Early Detection of Cardiovascular Disease Using Machine Learning:**
-*A Sex-Stratified Fairness-Aware Study for Low-Resource Clinical Settings in Sub-Saharan Africa*
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20373324.svg)](https://doi.org/10.5281/zenodo.20373324)
-&nbsp;`May 2026` &nbsp;`8 Models` &nbsp;`1,100 Patient Records`
-
-| Best Model | Metric | Score |
-|:---|:---|:---|
-| SVM | AUC-ROC | **0.9270** |
-| SVM | Cross-validated Accuracy | **87.68%** |
-| Random Forest | Accuracy | **86.36%** |
-
-Sex-stratified fairness analysis confirmed female recall at **80.0% vs 85.92%** for males — empirically validating female CVD underdiagnosis in clinical AI systems.
-
----
-
-### `01` · Type 2 Diabetes Prediction
-
-**Early Detection of Type 2 Diabetes Using Machine Learning:**
-*A Fairness-Aware Study for Underserved Populations*
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20348652.svg)](https://doi.org/10.5281/zenodo.20348652)
-&nbsp;`May 2026` &nbsp;`7 Models` &nbsp;`Pima Indians + CDC BRFSS Datasets`
-
-| Best Model | Metric | Score |
-|:---|:---|:---|
-| Random Forest | AUC-ROC | **0.8226** |
-| XGBoost | Cross-validated Accuracy | **81.12%** |
-
-SHAP analysis identified glucose concentration and BMI as dominant predictors. Fairness analysis across age and BMI subgroups revealed significant performance disparities with direct implications for equitable AI in low-resource clinical settings.
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy)
-
-### Engineering & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git)
+> ***This is why I build.***"
 
 </div>
 
+I am building **Nexora** — an AI-driven health intelligence company creating predictive and preventive healthcare systems for underserved communities across Ghana and West Africa. Powered by ethical, fairness-aware, and human-centered AI.
+
+The goal isn't to publish papers and move on. It's to ship systems that reach patients, inform clinicians, and close the healthcare equity gap through technology that actually works in low-resource environments.
+
+<br/>
+
 ---
 
-## 📊 GitHub Analytics
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddiegah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<a href="https://www.linkedin.com/in/edmund-eric-gah-7432a7213/">
+  <img src="https://img.shields.io/badge/LinkedIn-Edmund%20Eric%20Gah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gahedmund146@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gahedmund146%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://orcid.org/0009-0003-9772-2471">
+  <img src="https://img.shields.io/badge/ORCID-0009--0003--9772--2471-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddiegah&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<br/><br/>
 
-<img width="800" src="https://streak-stats.demolab.com?user=Eddiegah&theme=tokyonight&hide_border=true&background=00000000" />
+**Open to:** Research collaborations · AI/ML freelance · Speaking opportunities · Partnerships
 
 </div>
 
----
-
-## 🌍 Vision
-
-I believe artificial intelligence will become one of the defining forces shaping the future of healthcare, research, and human advancement.
-
-My long-term mission is to build intelligent systems that improve healthcare accessibility, strengthen clinical decision-making, and contribute to a future where technology meaningfully extends and improves human life at scale — starting with the communities that need it most.
-
----
-
-## 🏆 Certifications & Learning
-
-* IBM Artificial Intelligence Fundamentals
-* HP LIFE Certifications in AI, Data Science & Digital Systems
-* Machine Learning & Applied AI Development
-* Intelligent Systems & Data Analytics
-* CS207: Fundamentals of Machine Learning
-* CS250: Python for Data Science
-* BCG — GenAI Job Simulation
-* Commonwealth Bank — Introduction to Data Science Job Simulation
-* Tata — GenAI Powered Data Analytics Job Simulation
-* British Airways — Data Science Job Simulation
-* Cisco — Data Science Essentials with Python
-* Anthropic — Claude 101
-* HackerRank — Software Engineer
-* Code Alpha — Machine Learning
-* Code Alpha — Data Science
-* Sololearn — Data Analytics with AI
-* Sololearn — Generative AI Practice
-* The Open University — AI Fluency
-* The Open University — Data and Processes in Computing
-* The Open University — Machines, Minds and Computers
-* Saylor University — Computer Architecture
-* Saylor University — Software Engineering
-* Kaggle — Machine Learning
-* IBM — CCA Spark and Hadoop Developer
-* IBM — Big Data 101
-* Cisco — Computer Hardware
-* AWS — Intro to Amazon Athena
-* AWS — Agentic AI
-* AWS — Machine Learning Specialty
-* AWS — Certified DevOps
-* AWS — Cloud Practitioner Essentials
-* AWS — Certified Generative AI Developer
-* AWS — Prompt Engineering with Amazon Q Dev
-* AWS — Generative AI
-* AWS — Data Engineering
-* Cisco — Introduction to Cybersecurity
-* IBM — Cloud Computing
-* Cisco — Data Science
-* Cisco — Introduction to Modern AI
-* IBM — Data Science Methodology
-* HP Life — MCP
-* HP Life — AI for Professionals
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edmund-eric-gah-7432a7213/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github)](https://github.com/Eddiegah)
-[![ORCID](https://img.shields.io/badge/ORCID-0F172A?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9772-2471)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail)](mailto:gahedmund146@gmail.com)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### "Building intelligent systems that improve lives through ethical AI and scalable innovation."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0F172A&height=120&section=footer&text=Building%20AI%20that%20improves%20lives.&fontSize=20&fontColor=93C5FD&fontAlignY=65&animation=fadeIn" />
 
 </div>
