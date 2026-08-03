@@ -223,7 +223,7 @@ open_to   : Collaborations, research, opportunities
 </picture>
 </div>
 
-> ⚡ *Go to [Actions](https://github.com/Eddiegah/Eddiegah/actions) → Generate Snake Animation → Run workflow to generate the snake*
+
 
 ---
 
