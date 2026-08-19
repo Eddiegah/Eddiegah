@@ -29,42 +29,36 @@
 
 <br/>
 
-## `$ whoami`
+## `$ cat about.md`
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="56%" valign="top">
 
-```yaml
-name     : Edmund Eric Gah
-alias    : Eddiegah
-role     : AI / ML Engineer & Systems Builder
+My work sits at the intersection of **ML / deep learning**, **autonomous systems**, and **systems programming** — a GPT trained from scratch, a real OS kernel written in Rust from the first instruction, a CPU built gate-by-gate in Verilog, and a full perception-to-planning autonomous driving stack. Nothing here is a black box I imported; if it's on this profile, I understand every layer underneath it.
 
-focus:
-  primary   : Machine Learning & Deep Learning
-  secondary : Autonomous Systems & Robotics
-  tertiary  : Systems Programming (kernels, CPUs, compilers)
+<br/>
 
-flagship  : AutoNav — autonomous navigation stack
-            (Visual Odometry + LiDAR + A* + Control)
+![Primary](https://img.shields.io/badge/PRIMARY-Machine%20Learning%20%26%20Deep%20Learning-0a0118?style=flat-square&labelColor=0a0118&color=ff2fb5)
+<br/>
+![Secondary](https://img.shields.io/badge/SECONDARY-Autonomous%20Systems%20%26%20Robotics-0a0118?style=flat-square&labelColor=0a0118&color=7b2ff7)
+<br/>
+![Tertiary](https://img.shields.io/badge/TERTIARY-Systems%20Programming-0a0118?style=flat-square&labelColor=0a0118&color=05d9e8)
 
-also_built:
-  - a real OS kernel, in Rust, from the first instruction
-  - a real CPU, every gate, in Verilog
-  - a compiled language with symbolic differentiation
-  - GPT and Vision Transformers, from scratch
-  - live sims: orbits, flocking, fluid dynamics, seismic data
+<br/>
 
-learning:
-  - full SLAM with loop closure
-  - transformer architectures (ViT, DETR)
-  - multi-sensor fusion (EKF/UKF)
-  - large language models
+**Flagship:** [**AutoNav**](https://github.com/Eddiegah/AutoNav) — Visual Odometry + LiDAR + A* + Control, a complete autonomous navigation pipeline.
 
-fun_fact  : my code drives cars, flies through orbits, and
-            occasionally boots its own operating system
-open_to   : collaborations, research, opportunities
-```
+Currently deep in full SLAM with loop closure, transformer architectures (ViT, DETR), and multi-sensor fusion (EKF/UKF). **Open to collaborations, research, and opportunities.**
 
-<br clear="right"/>
+</td>
+<td width="44%" valign="top" align="center">
+
+<img width="100%" src="./assets/profile-card.svg" alt="system profile card — focus areas, flagship project, status" />
+
+</td>
+</tr>
+</table>
 
 ## `$ cat /proc/skills`
 
