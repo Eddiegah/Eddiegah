@@ -1,62 +1,62 @@
-<svg width="100%" viewBox="0 0 520 440" xmlns="http://www.w3.org/2000/svg" role="img">
-<title>Edmund Eric Gah — system profile card</title>
+<svg width="100%" viewBox="0 0 520 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Edmund Eric Gah — operator specification sheet</title>
 <defs>
 <linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0%" stop-color="#1d0a30"/>
-<stop offset="100%" stop-color="#0a0118"/>
+<stop offset="0%" stop-color="#0a2540"/>
+<stop offset="100%" stop-color="#0e1f33"/>
 </linearGradient>
-<linearGradient id="ctitle" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%" stop-color="#05d9e8"/>
-<stop offset="100%" stop-color="#ff2fb5"/>
-</linearGradient>
+<pattern id="pgrid" width="20" height="20" patternUnits="userSpaceOnUse">
+<path d="M 20 0 L 0 0 0 20" fill="none" stroke="#3a6f96" stroke-width="0.5" opacity="0.3"/>
+</pattern>
 </defs>
 
-<rect x="1" y="1" width="518" height="438" rx="14" fill="url(#cbg)" stroke="#7b2ff7" stroke-opacity="0.45"/>
+<rect x="0" y="0" width="520" height="460" fill="url(#cbg)" rx="4"/>
+<rect x="0" y="0" width="520" height="460" fill="url(#pgrid)" rx="4"/>
 
-<g stroke="#05d9e8" stroke-width="1" opacity="0.12">
-<line x1="0" y1="60" x2="520" y2="60"/>
-<line x1="0" y1="120" x2="520" y2="120"/>
-<line x1="0" y1="180" x2="520" y2="180"/>
-<line x1="0" y1="240" x2="520" y2="240"/>
-<line x1="0" y1="300" x2="520" y2="300"/>
-<line x1="0" y1="360" x2="520" y2="360"/>
+<rect x="10" y="10" width="500" height="440" fill="none" stroke="#7fdbff" stroke-width="1.3" opacity="0.85"/>
+
+<g stroke="#ff6b35" stroke-width="1.3">
+<path d="M10,26 H0 M10,26 V16" opacity="0.9"/>
+<path d="M510,26 H520 M510,26 V16" opacity="0.9"/>
+<path d="M10,434 H0 M10,434 V444" opacity="0.9"/>
+<path d="M510,434 H520 M510,434 V444" opacity="0.9"/>
 </g>
 
-<circle cx="34" cy="34" r="5" fill="#ff5f9e"/>
-<circle cx="54" cy="34" r="5" fill="#ffd166" fill-opacity="0.85"/>
-<circle cx="74" cy="34" r="5" fill="#39ff9d" fill-opacity="0.85"/>
-<text x="486" y="39" text-anchor="end" font-family="Consolas, 'Fira Code', monospace" font-size="12" letter-spacing="2" fill="#8b8b9e">system_profile.sh</text>
+<g font-family="Consolas, 'Fira Code', monospace">
 
-<line x1="24" y1="54" x2="496" y2="54" stroke="#ff5f9e" stroke-width="1" opacity="0.4"/>
+<text x="32" y="48" font-size="11" letter-spacing="2" fill="#ff6b35">SHEET 02 &#8212; OPERATOR SPEC</text>
+<line x1="32" y1="58" x2="488" y2="58" stroke="#3a6f96" stroke-width="1"/>
 
-<text x="34" y="90" font-family="Consolas, 'Fira Code', monospace" font-size="14" fill="#39ff9d">root@eddiegah:~$ <tspan fill="#e8e8f0">./profile</tspan></text>
+<text x="32" y="92" font-size="26" font-weight="700" letter-spacing="1" fill="#eaf6ff">EDMUND ERIC GAH</text>
+<text x="32" y="114" font-size="13" letter-spacing="1" fill="#8fb4cc">AI / ML Engineer &#38; Systems Builder</text>
 
-<text x="34" y="128" font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="700" fill="url(#ctitle)">EDMUND ERIC GAH</text>
-<text x="34" y="150" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#8b8b9e">AI / ML Engineer &#38; Systems Builder</text>
+<line x1="32" y1="132" x2="488" y2="132" stroke="#3a6f96" stroke-width="1"/>
 
-<rect x="34" y="172" width="452" height="1" fill="#05d9e8" opacity="0.25"/>
+<text x="32" y="158" font-size="10" letter-spacing="2" fill="#7fdbff">PRIMARY SYSTEM</text>
+<text x="230" y="158" font-size="12" fill="#eaf6ff">Machine Learning &#38; Deep Learning</text>
 
-<circle cx="42" cy="200" r="4" fill="#ff2fb5"/>
-<text x="56" y="205" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#e8e8f0">Machine Learning &#38; Deep Learning</text>
+<text x="32" y="184" font-size="10" letter-spacing="2" fill="#7fdbff">SECONDARY SYSTEM</text>
+<text x="230" y="184" font-size="12" fill="#eaf6ff">Autonomous Systems &#38; Robotics</text>
 
-<circle cx="42" cy="228" r="4" fill="#7b2ff7"/>
-<text x="56" y="233" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#e8e8f0">Autonomous Systems &#38; Robotics</text>
+<text x="32" y="210" font-size="10" letter-spacing="2" fill="#7fdbff">TERTIARY SYSTEM</text>
+<text x="230" y="210" font-size="12" fill="#eaf6ff">Systems Programming</text>
 
-<circle cx="42" cy="256" r="4" fill="#05d9e8"/>
-<text x="56" y="261" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#e8e8f0">Systems Programming</text>
+<line x1="32" y1="228" x2="488" y2="228" stroke="#3a6f96" stroke-width="1"/>
 
-<rect x="34" y="278" width="452" height="1" fill="#05d9e8" opacity="0.25"/>
+<text x="32" y="254" font-size="10" letter-spacing="2" fill="#7fdbff">FLAGSHIP UNIT</text>
+<text x="32" y="280" font-size="18" font-weight="700" fill="#ff6b35">AutoNav</text>
+<text x="32" y="300" font-size="11" fill="#8fb4cc">Visual Odometry &#43; LiDAR &#43; A* &#43; Control</text>
 
-<text x="34" y="304" font-family="Consolas, 'Fira Code', monospace" font-size="11" letter-spacing="2" fill="#8b8b9e">FLAGSHIP</text>
-<text x="34" y="326" font-family="Consolas, 'Fira Code', monospace" font-size="15" font-weight="700" fill="#ff5f9e">AutoNav</text>
-<text x="34" y="346" font-family="Consolas, 'Fira Code', monospace" font-size="12" fill="#8b8b9e">Visual Odometry + LiDAR + A* + Control</text>
+<line x1="32" y1="318" x2="488" y2="318" stroke="#3a6f96" stroke-width="1"/>
 
-<rect x="34" y="366" width="452" height="1" fill="#05d9e8" opacity="0.25"/>
+<text x="32" y="344" font-size="10" letter-spacing="2" fill="#7fdbff">CURRENTLY BUILDING</text>
+<text x="32" y="366" font-size="12" fill="#eaf6ff">Full SLAM w/ loop closure &#183; ViT / DETR</text>
+<text x="32" y="384" font-size="12" fill="#eaf6ff">Multi-sensor fusion (EKF / UKF)</text>
 
-<text x="34" y="392" font-family="Consolas, 'Fira Code', monospace" font-size="11" letter-spacing="2" fill="#8b8b9e">STATUS</text>
-<text x="34" y="414" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#39ff9d">open_to: <tspan fill="#e8e8f0">collaborations, research, opportunities</tspan></text>
+<line x1="32" y1="402" x2="488" y2="402" stroke="#3a6f96" stroke-width="1"/>
 
-<rect x="480" y="80" width="10" height="16" fill="#05d9e8">
-<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1" dur="1.1s" repeatCount="indefinite"/>
-</rect>
+<circle cx="38" cy="424" r="4" fill="#4ade80"/>
+<text x="50" y="428" font-size="12" letter-spacing="1" fill="#4ade80">OPEN TO COLLABORATION, RESEARCH &#38; OPPORTUNITIES</text>
+
+</g>
 </svg>
