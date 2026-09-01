@@ -24,7 +24,7 @@
 
 <g font-family="Consolas, 'Fira Code', monospace">
 
-<text x="32" y="48" font-size="11" letter-spacing="2" fill="#ff6b35">SHEET 02 &#8212; OPERATOR SPEC</text>
+<text x="32" y="48" font-size="11" letter-spacing="2" fill="#ff6b35">SHEET 01 &#8212; OPERATOR SPEC</text>
 <line x1="32" y1="58" x2="488" y2="58" stroke="#3a6f96" stroke-width="1"/>
 
 <text x="32" y="92" font-size="26" font-weight="700" letter-spacing="1" fill="#eaf6ff">EDMUND ERIC GAH</text>
@@ -33,25 +33,25 @@
 <line x1="32" y1="132" x2="488" y2="132" stroke="#3a6f96" stroke-width="1"/>
 
 <text x="32" y="158" font-size="10" letter-spacing="2" fill="#7fdbff">PRIMARY SYSTEM</text>
-<text x="230" y="158" font-size="12" fill="#eaf6ff">Machine Learning &#38; Deep Learning</text>
+<text x="230" y="158" font-size="12" fill="#eaf6ff">Machine Learning &#38; AI Agents</text>
 
 <text x="32" y="184" font-size="10" letter-spacing="2" fill="#7fdbff">SECONDARY SYSTEM</text>
-<text x="230" y="184" font-size="12" fill="#eaf6ff">Autonomous Systems &#38; Robotics</text>
+<text x="230" y="184" font-size="12" fill="#eaf6ff">From-Scratch Systems &#38; Languages</text>
 
 <text x="32" y="210" font-size="10" letter-spacing="2" fill="#7fdbff">TERTIARY SYSTEM</text>
-<text x="230" y="210" font-size="12" fill="#eaf6ff">Systems Programming</text>
+<text x="230" y="210" font-size="12" fill="#eaf6ff">Computer Vision &#38; Live Data</text>
 
 <line x1="32" y1="228" x2="488" y2="228" stroke="#3a6f96" stroke-width="1"/>
 
-<text x="32" y="254" font-size="10" letter-spacing="2" fill="#7fdbff">FLAGSHIP UNIT</text>
-<text x="32" y="280" font-size="18" font-weight="700" fill="#ff6b35">AutoNav</text>
-<text x="32" y="300" font-size="11" fill="#8fb4cc">Visual Odometry &#43; LiDAR &#43; A* &#43; Control</text>
+<text x="32" y="254" font-size="10" letter-spacing="2" fill="#7fdbff">FLAGSHIP BUILDS &#8212; 04</text>
+<text x="32" y="278" font-size="15" font-weight="700" fill="#ff6b35">Ember &#183; Flux &#183; Loupe &#183; cowrite</text>
+<text x="32" y="298" font-size="11" fill="#8fb4cc">language &#43; VM &#183; live space weather &#183; agent evals &#183; realtime editor</text>
 
 <line x1="32" y1="318" x2="488" y2="318" stroke="#3a6f96" stroke-width="1"/>
 
 <text x="32" y="344" font-size="10" letter-spacing="2" fill="#7fdbff">CURRENTLY BUILDING</text>
-<text x="32" y="366" font-size="12" fill="#eaf6ff">Full SLAM w/ loop closure &#183; ViT / DETR</text>
-<text x="32" y="384" font-size="12" fill="#eaf6ff">Multi-sensor fusion (EKF / UKF)</text>
+<text x="32" y="366" font-size="12" fill="#eaf6ff">Agent tooling on Groq &#183; live-data 3D systems</text>
+<text x="32" y="384" font-size="12" fill="#eaf6ff">from-scratch compilers, VMs &#38; databases</text>
 
 <line x1="32" y1="402" x2="488" y2="402" stroke="#3a6f96" stroke-width="1"/>
 

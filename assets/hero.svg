@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" role="img">
 <title>Edmund Eric Gah — engineering title sheet</title>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -9,11 +9,15 @@
 <stop offset="0%" stop-color="#eaf6ff"/>
 <stop offset="100%" stop-color="#7fdbff"/>
 </linearGradient>
+<radialGradient id="glow" cx="50%" cy="35%" r="65%">
+<stop offset="0%" stop-color="#1a3f66" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#0a2540" stop-opacity="0"/>
+</radialGradient>
 <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-<path d="M 24 0 L 0 0 0 24" fill="none" stroke="#3a6f96" stroke-width="0.6" opacity="0.35"/>
+<path d="M 24 0 L 0 0 0 24" fill="none" stroke="#3a6f96" stroke-width="0.6" opacity="0.3"/>
 </pattern>
 <pattern id="gridMajor" width="120" height="120" patternUnits="userSpaceOnUse">
-<path d="M 120 0 L 0 0 0 120" fill="none" stroke="#4a86ae" stroke-width="0.9" opacity="0.4"/>
+<path d="M 120 0 L 0 0 0 120" fill="none" stroke="#4a86ae" stroke-width="0.9" opacity="0.35"/>
 </pattern>
 <marker id="arrowEnd" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
 <path d="M0,0 L8,3 L0,6 Z" fill="#ff6b35"/>
@@ -23,56 +27,60 @@
 </marker>
 </defs>
 
-<rect x="0" y="0" width="1200" height="360" fill="url(#bg)"/>
-<rect x="0" y="0" width="1200" height="360" fill="url(#grid)"/>
-<rect x="0" y="0" width="1200" height="360" fill="url(#gridMajor)"/>
+<rect x="0" y="0" width="1200" height="380" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="380" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="380" fill="url(#grid)"/>
+<rect x="0" y="0" width="1200" height="380" fill="url(#gridMajor)"/>
 
 <!-- sheet border, drafting convention -->
-<rect x="16" y="16" width="1168" height="328" fill="none" stroke="#7fdbff" stroke-width="1.5" opacity="0.8"/>
-<rect x="26" y="26" width="1148" height="308" fill="none" stroke="#3a6f96" stroke-width="1" opacity="0.6"/>
+<rect x="16" y="16" width="1168" height="348" fill="none" stroke="#7fdbff" stroke-width="1.5" opacity="0.85"/>
+<rect x="26" y="26" width="1148" height="328" fill="none" stroke="#3a6f96" stroke-width="1" opacity="0.6"/>
 
 <!-- corner registration marks -->
 <g stroke="#ff6b35" stroke-width="1.5">
 <path d="M16,40 H4 M16,40 V28" opacity="0.9"/>
 <path d="M1184,40 H1196 M1184,40 V28" opacity="0.9"/>
-<path d="M16,320 H4 M16,320 V332" opacity="0.9"/>
-<path d="M1184,320 H1196 M1184,320 V332" opacity="0.9"/>
+<path d="M16,340 H4 M16,340 V352" opacity="0.9"/>
+<path d="M1184,340 H1196 M1184,340 V352" opacity="0.9"/>
 </g>
 
 <!-- main title -->
-<text x="600" y="128" text-anchor="middle" font-family="'Arial Black', Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="4" fill="url(#titleGrad)">EDMUND ERIC GAH</text>
-<text x="600" y="162" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="15" letter-spacing="5" fill="#ff6b35">AI / ML ENGINEER &#183; SYSTEMS BUILDER &#183; SILICON TO SOFTWARE</text>
+<text x="600" y="132" text-anchor="middle" font-family="'Arial Black', Arial, sans-serif" font-size="56" font-weight="900" letter-spacing="4" fill="url(#titleGrad)">EDMUND ERIC GAH</text>
+<text x="600" y="168" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="15" letter-spacing="5" fill="#ff6b35">AI / ML ENGINEER &#183; SYSTEMS BUILDER &#183; SIGNAL TO SHIP</text>
 
 <!-- dimension line -->
-<line x1="270" y1="205" x2="930" y2="205" stroke="#ff6b35" stroke-width="1.2" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)" opacity="0.95"/>
-<line x1="270" y1="196" x2="270" y2="214" stroke="#ff6b35" stroke-width="1.2" opacity="0.95"/>
-<line x1="930" y1="196" x2="930" y2="214" stroke="#ff6b35" stroke-width="1.2" opacity="0.95"/>
-<rect x="385" y="192" width="430" height="26" fill="#0e1f33"/>
-<text x="600" y="211" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="14" letter-spacing="2" fill="#eaf6ff">67&#43; ORIGINAL REPOSITORIES &#183; 5 DISCIPLINES</text>
+<line x1="230" y1="212" x2="970" y2="212" stroke="#ff6b35" stroke-width="1.2" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)" opacity="0.95"/>
+<line x1="230" y1="203" x2="230" y2="221" stroke="#ff6b35" stroke-width="1.2" opacity="0.95"/>
+<line x1="970" y1="203" x2="970" y2="221" stroke="#ff6b35" stroke-width="1.2" opacity="0.95"/>
+<rect x="345" y="199" width="510" height="26" fill="#0e1f33"/>
+<text x="600" y="218" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="14" letter-spacing="2" fill="#eaf6ff">80&#43; ORIGINAL REPOSITORIES &#183; 6 DISCIPLINES &#183; 0 STOCK PHOTOS</text>
+
+<!-- sub-line: what actually ships -->
+<text x="600" y="252" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#8fb4cc">from-scratch languages &#38; databases &#183; live physics on real data &#183; agent tooling &#183; computer vision &#183; health ML</text>
 
 <!-- title block -->
 <g font-family="Consolas, 'Fira Code', monospace">
-<rect x="790" y="246" width="386" height="72" fill="none" stroke="#7fdbff" stroke-width="1.2"/>
-<line x1="790" y1="264" x2="1176" y2="264" stroke="#3a6f96" stroke-width="1"/>
-<line x1="790" y1="282" x2="1176" y2="282" stroke="#3a6f96" stroke-width="1"/>
-<line x1="790" y1="300" x2="1176" y2="300" stroke="#3a6f96" stroke-width="1"/>
-<line x1="940" y1="246" x2="940" y2="318" stroke="#3a6f96" stroke-width="1"/>
+<rect x="790" y="270" width="386" height="72" fill="none" stroke="#7fdbff" stroke-width="1.2"/>
+<line x1="790" y1="288" x2="1176" y2="288" stroke="#3a6f96" stroke-width="1"/>
+<line x1="790" y1="306" x2="1176" y2="306" stroke="#3a6f96" stroke-width="1"/>
+<line x1="790" y1="324" x2="1176" y2="324" stroke="#3a6f96" stroke-width="1"/>
+<line x1="940" y1="270" x2="940" y2="342" stroke="#3a6f96" stroke-width="1"/>
 
-<text x="800" y="260" font-size="11" letter-spacing="1.5" fill="#7fdbff">DRAWN BY</text>
-<text x="950" y="260" font-size="11" fill="#eaf6ff">E. GAH</text>
-<text x="800" y="278" font-size="11" letter-spacing="1.5" fill="#7fdbff">SHEET</text>
-<text x="950" y="278" font-size="11" fill="#eaf6ff">01 OF 06</text>
-<text x="800" y="296" font-size="11" letter-spacing="1.5" fill="#7fdbff">SCALE</text>
-<text x="950" y="296" font-size="11" fill="#eaf6ff">NOT TO SCALE</text>
-<text x="800" y="314" font-size="11" letter-spacing="1.5" fill="#7fdbff">STATUS</text>
-<text x="950" y="314" font-size="11" fill="#4ade80">&#9679; ACTIVE</text>
+<text x="800" y="284" font-size="11" letter-spacing="1.5" fill="#7fdbff">DRAWN BY</text>
+<text x="950" y="284" font-size="11" fill="#eaf6ff">E. GAH</text>
+<text x="800" y="302" font-size="11" letter-spacing="1.5" fill="#7fdbff">SHEET</text>
+<text x="950" y="302" font-size="11" fill="#eaf6ff">01 OF 06</text>
+<text x="800" y="320" font-size="11" letter-spacing="1.5" fill="#7fdbff">SCALE</text>
+<text x="950" y="320" font-size="11" fill="#eaf6ff">NOT TO SCALE</text>
+<text x="800" y="338" font-size="11" letter-spacing="1.5" fill="#7fdbff">STATUS</text>
+<text x="950" y="338" font-size="11" fill="#4ade80">&#9679; ACTIVE</text>
 </g>
 
 <!-- small designation stamp, left -->
 <g font-family="Consolas, 'Fira Code', monospace">
-<rect x="24" y="246" width="220" height="72" fill="none" stroke="#3a6f96" stroke-width="1" opacity="0.8"/>
-<text x="34" y="264" font-size="10" letter-spacing="1.5" fill="#7fdbff" opacity="0.9">PROJECT NO.</text>
-<text x="34" y="282" font-size="15" fill="#eaf6ff">EEG&#8209;2026&#8209;PROFILE</text>
-<text x="34" y="304" font-size="10" letter-spacing="1.5" fill="#7fdbff" opacity="0.9">REV. 2026.08</text>
+<rect x="24" y="270" width="220" height="72" fill="none" stroke="#3a6f96" stroke-width="1" opacity="0.85"/>
+<text x="34" y="288" font-size="10" letter-spacing="1.5" fill="#7fdbff" opacity="0.9">PROJECT NO.</text>
+<text x="34" y="306" font-size="15" fill="#eaf6ff">EEG&#8209;2026&#8209;PROFILE</text>
+<text x="34" y="328" font-size="10" letter-spacing="1.5" fill="#7fdbff" opacity="0.9">REV. 2026.09 &#183; R2</text>
 </g>
 </svg>
